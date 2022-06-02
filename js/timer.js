@@ -1,7 +1,7 @@
 'use strict'
 
 const timerBlock = document.querySelector('.timer__time');
-const deadLine = '31 march 2022';
+const deadLine = '31 december 2022';
 
 let interval;
 
